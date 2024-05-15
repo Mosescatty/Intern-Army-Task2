@@ -8,13 +8,13 @@ body {
     max-width: 600px;
     margin: 0 auto;
     text-align: center;
-    background-color: bisque;
+    background-color: rgb(57, 107, 234);
     padding: 5%;
-
+   
 }
 
 .form {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 input[type="text"] {
